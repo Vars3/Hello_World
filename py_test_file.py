@@ -1,5 +1,5 @@
-import sys, os
-
+import sys
+import time
 
 def foo(x, y):
 	return (x * (y**3 + 15)) - 130
